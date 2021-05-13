@@ -2,8 +2,6 @@
 title: "About"
 date: 2021-05-12T23:29:26-07:00
 ---
-
-
 Hi, 
 
 I am a senior at Yale majoring in Ecology and Evolutionary Biology. I can still say this because I will graduate in two weeks, and it will feel a bit strange to not introduce myself as a student.

@@ -17,9 +17,9 @@ theme = "yinyang"
   name = "Gladys" 
 
 [params]
-mainSections = ["post"]
-slogan = "Nothing ever becomes real till it is experienced." 
 headTitle = "Gladys Fang's stuff"
+subTitle = "Nothing ever becomes real till it is experienced." 
+mainSections = ["post"]
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
 
 [[params.socials]]
