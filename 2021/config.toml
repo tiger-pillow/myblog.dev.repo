@@ -17,7 +17,7 @@ theme = "yinyang"
   name = "Gladys" 
 
 [params]
-mainSections = ["posts"]
+mainSections = ["post"]
 headTitle = "Gladys Fang's stuff"
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
 
