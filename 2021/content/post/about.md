@@ -1,8 +1,6 @@
 ---
-title: "Yale Reflections #1 - Courses"
-date: 2021-05-12T22:36:47-07:00
+title: "About"
+date: 2021-05-12T23:29:26-07:00
+draft: true
 ---
 
-I have two finals left, yet I decide to write about my Yale experience. After all, what better procrastinations are there other than "reflections"? 
-
-TEST 2
