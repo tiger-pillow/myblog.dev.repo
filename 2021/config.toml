@@ -18,7 +18,7 @@ theme = "yinyang"
 
 [params]
 headTitle = "Gladys Fang's stuff"
-subTitle = "Nothing ever becomes real till it is experienced." 
+Subtitle = "Nothing ever becomes real till it is experienced." 
 mainSections = ["post"]
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
 
