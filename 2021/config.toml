@@ -1,4 +1,25 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Gladys Fang"
 theme = "yinyang"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    guessSyntax = true
+    noClasses = true
+    style = "bw"
+    tabWidth = 2
+
+
+[params]
+mainSections = ["posts"]
+
+[[params.socials]]
+name = "About Me"
+link = "https://joway.io"
+[[params.socials]]
+name = "Instagram"
+link = "https://instagram.com/tigerpillow"
