@@ -1,6 +1,7 @@
 ---
-title: "About - please work"
+title: "Yale Reflections #1 - Courses"
 date: 2021-05-12T22:36:47-07:00
 ---
 
-Haha this is the first page, hopefully it will be successful
+I have two finals left, yet I decide to write about my Yale experience. After all, what better procrastinations are there other than "reflections"? 
+
