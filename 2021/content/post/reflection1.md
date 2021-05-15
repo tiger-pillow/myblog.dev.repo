@@ -17,7 +17,7 @@ However, I enjoyed my studies tremendously and had so much fun learning. The thi
 # Best courses I've taken 
 1. E&EB 380 Life History Evolution 
     <p>Taught by Prof. Stephen Stearns (who has since retired) <p>
-    <p>I was the only student. I worked my ass off week after week. I grinded through difficult math equations and papers using technology that I've never heard of. I wrote a 30-page biology paper about [MHC](https://drive.google.com/file/d/19qaQlR04-RxSLmaK8XkeZWvIHW_-olBq/view?usp=sharing). It was the hardest course I've taken. <p>
+    <p>I was the only student. I worked my ass off week after week. I grinded through difficult math equations and papers using technology that I've never heard of. I wrote a 30-page biology paper about [MHC](google.com). It was the hardest course I've taken. <p>
     <p>But every week I enjoyed 2.5 hours of one-on-one intellectual conversations with Prof. Stearns. Boy, you won't understand how fortunate I was. Talking biology with a top scientist who is willing to mentor you. Prof. Stearns challenged me to ask good questions and think about experiments that will answer them. He edited my paper line after line. He tailored class to my interests (practically combined two courses together). I feel forever indebted for the time and energy he spent. <p>
     <p>So what is this course about? Life History Evolution sounds like the vaguest topic ever. My high school physics teacher once said "the value of a course is inversely proportional to the scope of its title," which I believed firmly (true in most circumstances). However, this course is different.<p>
     <p>Life History is actually a small branch of evolutionary biology. It studies events related to survival and reproduction of an organism. Some questiosn that it attempts to answer are: why do humans only have one baby when mice often can have dozens? Why isn't cancer eliminated by selection if it kills people? Does Covid-19 put evolutionary pressure on the population?<p>
@@ -27,7 +27,7 @@ However, I enjoyed my studies tremendously and had so much fun learning. The thi
    <p>This course is taught completely online during covid, in the lecture format. It's such a shame because Prof. Wagner's funny and intense personality would have made his lectures even more interesting. But still the content of this class was awesome, exactly what I was hoping to learn when I entered Yale (yet I only took it in my senior year)<p>
    <p>The class surveys the development and evolution of vertebrates, covering things from amphioxus (yep I didn't know what this was either) to humans. Some questions it answers are: how do fish fins become arms and shoulders? Why is the clitoris so far away from the vagina? Why don't cats socialize like dogs? Are feathers and hair homologous to each other?<p>
    <p>Three things I particularly liked about this class: 1. the use of published literature, instead of textbooks 2. the history of biology and intellectual thoughts embedded in the lectures (truly liberal arts) 3. the focus on reproduction and urogenital systems <p>
-   
+
 
 3. FREN 384 Representations of the Holocaust by Prof. Markus and Prof. Samuels 
 4. HIST 160J Asian American Women & Gender Since 1830 by Prof. Mary Lui
