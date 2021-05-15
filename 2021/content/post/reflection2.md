@@ -1,6 +1,6 @@
 ---
 title: "Yale Reflections #2 - Research"
-date: 2021-05-12T23:29:10-07:00
+date: 2021-05-14T23:29:10-07:00
 draft: true
 ---
 If you are interested in doing research at the undergraduate level, read on! I had many pitfalls to write this guide for you. 
@@ -83,7 +83,6 @@ Professors who don't do research. For example, the [Gibbs professorship at Yale]
 
     Proximity matters, especially if you are an undergraduate trying to squeeze time for the lab. **Find a lab close to campus, your dorm or your classrooms.** These are heuristics that will help you become a better researcher.
 
-
 5. Reputation  
    At the undergraduate level, the reputation of your PI doesn't really matter. The project you worked on and how much you learned is more important. However, to help you understand a bit, here are some common awards: 
    
@@ -95,13 +94,23 @@ Professors who don't do research. For example, the [Gibbs professorship at Yale]
 
 # Common ways of finding a lab 
 
-1. Through a class 
+1. Through a class  
+    This is how I was referred to do my senior thesis with Prof. Wagner, through a previous class with Prof. Stearns (see [reflection #1](https://tiger-pillow.github.io/post/reflection1/))
 
-2. Through a friend 
+    Sometimes professors talk about their research in their class, and even ask for undergrads who are interested to work for them. Do well in those class, talk to them briefly after class, get an idea of their approach with undergrads.
 
-3. Cold emailing
+    If you are referred, take the opportunity, because that means you are "recommended". The Prof. seeking referral often has some non-trivial project that they hope to get someone trustworthy to work on. 
+
+2. Through a friend  
+    If you heard about something cool over dinner, ask them on! What's better than discussing fun science with friends and working on experiments together? You can also walk to the lab together in a blizzard. 
+
+    This is by no means a necessity though. You will soon find, that research, no matter how collaborative, are solitary by nature. Just a way to get in, not a way to success
+
+3. Cold emailing  
+    The most common approach, though not the best. 
 
 4. Established Programs 
+SURF at Mayo, Yale's STARS, more prestigious ones at Rockefeller 
 
 # Tools to use 
 
