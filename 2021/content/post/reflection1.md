@@ -74,14 +74,14 @@ The class surveys the development and evolution of vertebrates, covering things 
 
    It was tough. I was the only sophomore in the class, and the only STEM person. Sometimes I don't even understand what others are saying (later I learned about [Sokal Affair](https://en.wikipedia.org/wiki/Sokal_affair)). But without it I would never have known the life of early Asian immigrants, nor have as much of an appreciation for my heritage. 
 
-### 5. ART 005 Blue by Prof. Jessical Helfand
+### 5. ART 005 Blue by Prof. Jessica Helfand
 
    I was lucky. Blue was the most popular freshman seminar, and I won the lottery (16 out of 140 sign-ups). 
-   The class is about Blue, but from the artistic perspective. Why is blue associated with sadness? Why are there so few blue vegetables(blueberries are purple)? 
+   The class is about Blue, but from the artistic perspective. Why is blue associated with sadness? Why are there so few blue vegetables? (blueberries are in fact, purple)
 
-   I didn't appreciate this class when taking it. In fact, I hated it. I wasn't used to the way artist work, think, and do things. I felt the rubric vague and unhelpful. It was only later in my time at Yale I appreciated this class.
+   I didn't appreciate this class while I was taking it. In fact, I hated it. I wasn't used to the way artists work, think, and do things. I felt the rubric vague and unhelpful. It was only later in my time at Yale I appreciated this class.
 
-   Half of the course were conducted at various treasure locations at Yale -- the Beinecke, the Peabody, the Harvey Cushing center, Yale Art Gallery etc. We had guests like Richard Prum and HBO animators (who made the intro of GOT). I also got a chance to interact with the more artistic Yalies (whom I seldom cross path with ever since) and learn to appreciate their talents. 
+   Half of the course were conducted at various treasures at Yale -- the Beinecke, the Peabody, the Harvey Cushing center, Yale Art Gallery etc. We had guests like Richard Prum and HBO animators (who made the intro of GOT). I also got a chance to interact with the more artistic Yalies (whom I seldom cross path with ever since) and learn to appreciate their talents. 
 
 ### 6. CPSC 230 Data Structures and Algorithm by Prof. Eisenstat
 
@@ -89,16 +89,18 @@ Prof. Eisenstat is a legend. His courses CPSC 230 and CPSC 323 are the rite of p
 
 Boy this class was HARD. I expected it to be difficult, but not this difficult. Before CPSC223, I didn't even know what a SSH key was, not to mention memory leaks or time complexity. 
 
-But this is also the best kinda of course -- incredibly challenging with incredible support. The support system with TA Chris Lim (who unfortunately passed away due to a car [accident](https://law.yale.edu/yls-today/yale-law-school-events/loving-memory-chris-lim)) and wonderful ULAs (undergraduate learning assistants). Without them I would never have passed the test scripts. The assignments are very difficult, but Prof. Eisenstat has so many office hours and replys your emails within 12 hours usually. It's for these reasons that Yale is Yale, that it lives up to its reputation (and maybe tuition). 
+But this is also the best kinda of course -- incredibly challenging with incredible support. The support system with TA Chris Lim (who unfortunately passed away due to a car [accident](https://law.yale.edu/yls-today/yale-law-school-events/loving-memory-chris-lim)) and wonderful ULAs (undergraduate learning assistants). Without them I would never have passed the test scripts. The assignments are very difficult, but Prof. Eisenstat has so many office hours and replys to your emails within 12 hours usually. It's for these reasons that Yale is Yale, that it lives up to its reputation (and maybe tuition). 
 
 Two things I learned: <ol>
     <li> **You will get there** <p>
     Here are my grades: ![grade](/post/223grades.png)
-    My first assignment, I was the 125th among 131 students. My last assignment, I was the top 14th. Nothing taught me about "the grind" as this class did.
+    For my first assignment, I was the 125th among 131 students. My last assignment, I was the top 14th. Nothing taught me about "the grind" as much as this class did.
     <li> **Live like Prof. Eisenstat** <p>
     He passed away, not in retirement painting and knitting, but teaching his class and giving his all to his students. He truly did what he loved till the last moments of his life. I don't aspire to be a professor, but I do hope that I will end my life in a similar manner, giving all of myself to something I love and something worthwhile. 
     </ol>
 
 # Summary: 
 
-Looking back, the courses that I love all have: great prof and loads of work. They taught me very different things,  perspectives, confidence, way of living, evolution etc. I might 
+Looking back, the courses that I love all have two things: great prof and loads of work. They taught me very different things,  perspectives, confidence, attitude towards life, writing skills, critical lens etc. The details will be sifted away by time, but the impression etched in my mind. 
+
+I shall be grateful for the opportunities and resources that Yale has given me. I will give back whatever I can. 
