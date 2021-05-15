@@ -1,5 +1,5 @@
 ---
-title: "Ski resorts ranked, 2020-21 "
+title: "Gladys' Favorite Resorts Ranked, 2020-21"
 date: 2021-05-13T11:38:01-07:00
 draft: true
 ---
@@ -49,3 +49,8 @@ draft: true
 
 12. Eldora 
     <p>If I haven't been to any of the above, this wouldn't be too bad. But once you have seen, you cannot unsee. <p>
+
+
+Voila! I am grateful for this chance to snowboard so much this season. There are still half a dozen resorts left on my bucket list, but 来日方长 as we say in Chinese (the coming days would be long). Cheers to the adventures ahead! 
+
+Gladys 
