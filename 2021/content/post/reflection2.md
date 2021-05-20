@@ -104,15 +104,21 @@ Professors who don't do research. For example, the [Gibbs professorship at Yale]
 2. Through a friend  
     If you heard about something cool over dinner, ask them on! What's better than discussing fun science with friends and working on experiments together? You can also walk to the lab together in a blizzard. 
 
-    This is by no means a necessity though. You will soon find, that research, no matter how collaborative, are solitary by nature. Just a way to get in, not a way to success
+    This is by no means a necessity though. You will soon find, that research, no matter how collaborative, is solitary by nature. Just a way to get in, not a way to success
 
 3. Cold emailing  
-    The most common approach, though not the best. 
+    The most common approach, though not the best. There are several parts you should include in your email: 1. brief introduction, mention previous experiences if you have some 2. your interests 3. time commitment and why you want to do research (med school? grad school?) 4. ask if you can visit and talk to the grad students / talk to the PI in person 
+
+    Now some PI will have specific policy regarding undergrads (e.g. [Saltzman lab](https://saltzmanlab.yale.edu/Contacts)), others will reply on a personal base. I'd recommend contacting at least three labs and visiting the lab itself before committing. This way you will avoid the situation I encountered with Van Tessel lab (abanonded lab with 0 funding) or realize that animal work/ computer clusters are not for you. 
 
 4. Established Programs 
-SURF at Mayo, Yale's STARS, more prestigious ones at Rockefeller 
+Applying for and attending a research program is a wonderful way of being introduced and involved. Here are some ones that I know: [SURF at Mayo](https://college.mayo.edu/academics/biomedical-research-training/summer-undergraduate-research-fellowship-surf/), [Yale's STARS](https://science.yalecollege.yale.edu/stars), more prestigious ones at [Rockefeller](https://www.rockefeller.edu/education-and-training/surf/), [Albert Eienstein SURF](https://einsteinmed.org/education/phd/the-summer-undergrad-research-program.aspx)...Many universities also have fellowships  also support their own undergrads to do research on campus or elsewhere. Most of these open their application in Janurary or Feburary. 
+
+If you can, I'd recommend staying on campus during the summer and continue the work you did during the semester. Continuity and time are the keys for research. It takes a good two month to turly be familiar with another field and you rarely achieve satisfying results during summer alone. However, if you started research since Freshman year, spent lots of time with the same lab, and 
 
 # Tools to use 
+
+Want to see 
 
 # How to do well? 
 
