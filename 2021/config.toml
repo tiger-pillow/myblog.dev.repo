@@ -24,4 +24,4 @@ extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-x
 
 [[params.socials]]
 name = "About Me"
-link = "https://tiger-pillow.github.io/post/about/"
+link = "https://tiger-pillow.github.io/aboutme/about/"
