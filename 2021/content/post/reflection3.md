@@ -35,5 +35,5 @@ People have different relationships with their parents. A lot of Chinese parents
 
 If you find yourself in these similar situations, where your parents force you to major in Econ or Computer Science, even though at heart you know you want to do theatre, and then do it! Detach yourself from them a little, and be independent. They will survive. They are stronger than you think. 
 
-I don't have siblings (part of the only child generation), so couldn't attest to those
+I don't have siblings (part of the only child generation), so couldn't attest to those.
 
