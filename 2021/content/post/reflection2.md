@@ -111,16 +111,35 @@ Professors who don't do research. For example, the [Gibbs professorship at Yale]
 
     Now some PI will have specific policy regarding undergrads (e.g. [Saltzman lab](https://saltzmanlab.yale.edu/Contacts)), others will reply on a personal base. I'd recommend contacting at least three labs and visiting the lab itself before committing. This way you will avoid the situation I encountered with Van Tessel lab (abanonded lab with 0 funding) or realize that animal work/ computer clusters are not for you. 
 
-4. Established Programs 
+4. Established Programs  
 Applying for and attending a research program is a wonderful way of being introduced and involved. Here are some ones that I know: [SURF at Mayo](https://college.mayo.edu/academics/biomedical-research-training/summer-undergraduate-research-fellowship-surf/), [Yale's STARS](https://science.yalecollege.yale.edu/stars), more prestigious ones at [Rockefeller](https://www.rockefeller.edu/education-and-training/surf/), [Albert Eienstein SURF](https://einsteinmed.org/education/phd/the-summer-undergrad-research-program.aspx)...Many universities also have fellowships  also support their own undergrads to do research on campus or elsewhere. Most of these open their application in Janurary or Feburary. 
 
-If you can, I'd recommend staying on campus during the summer and continue the work you did during the semester. Continuity and time are the keys for research. It takes a good two month to turly be familiar with another field and you rarely achieve satisfying results during summer alone. However, if you started research since Freshman year, spent lots of time with the same lab, and 
-
-# Tools to use 
-
-Want to see 
+If you can, I'd recommend staying on campus during the summer and continue the work you did during the semester. Continuity and quality time are the keys for research. It takes a good two month to learn the lab jargons and you rarely achieve publishable results during summer alone. However, if you started research since Freshman year and are now in your junior year or gap year before grad school, it's not a bad idea to work in another lab and learn some new techniques. 
 
 # How to do well? 
+1. don't be afraid to ask  
+   You all know this. But sometimes when you ask a grad student or postdoc for help, with the location of a material or the microscope, they might look annoyed and not willing to help you. This is not your problem (especially if you just begin). They might just be under a good amount of stress or they just don't know you yet. Ask gently and see if you can find something out. Always ask. Better be annoying than wasting your time (and PI's time and money). Ask for feedbacks on how you are doing too. 
+
+2. prioritize it  
+   I think Yalies engage in too many things. If you are an undergrad and want to do some serious research, it has to be your priority. If you just want something to put on your application for medical school, well, that's a different case. 
+
+3. work hard  
+   I remember staying till 3A.M. to take images of my histology slides, so that I can begin the data analysis process earlier. Nobody always does that, but sometimes you need to be late at a party or get up two hours earlier to make it happen. You know, the usual stuff. 
+
 
 # Personality and compatibility 
 
+Funny I have written so much about research, to say in the end that fundamental science research is not for me. I've learned this through repeated trying but I stil don't find the work rewarding. I've achieved some results, and all the professors whom I've worked with are happy with my work. 
+
+The reason lies in my personality. I am an adrenaline junkie, and I search and seek for stimulations and excitements. I am also the most impatient person I know, so I long for short feedback loop and quick, incremental changes. This is the opposite of what a researcher needs -- patience, long-term planning, steady emotions. I also realized that I am not okay with just finding out some secrets about life. I also want to make things and do things with it, and most research result in the form of publications (some biology research are essentially engineering, such as CAR-T therapies, drug delivery etc. so what I am saying is not conclusive)
+
+
+# Tools to use 
+1. Check professors' funding:  
+    NIH reporter: https://reporter.nih.gov/   
+    NSF reporter: https://www.nsf.gov/awardsearch/advancedSearch.jsp  
+    John Templeton Foundation: https://www.templeton.org/funding-areas  
+    Also from the acknowledgements of their papers. Their grant applications give you an overview of what they are working on (often not said in enough detail on their lab websites) and an idea of whether the professor is willing to support you. These above links only concern biomedical sciences. 
+
+
+Let me know if I said something horribly wrong or if you have any questions. Good luck and have fun! 
