@@ -1,6 +1,6 @@
 ---
 title: "Ski/Snowboard Resorts Ranked, 2020-21"
-date: 2021-05-13T11:38:01-07:00
+date: 2021-04-13T11:38:01-07:00
 categories: ["Outdoor"]
 draft: true
 ---
