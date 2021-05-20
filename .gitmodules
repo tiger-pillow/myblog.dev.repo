@@ -5,3 +5,9 @@
 	path = 2021/tiger-pillow.github.io
 	url = https://github.com/tiger-pillow/tiger-pillow.github.io.git
 	branch = master
+[submodule "2021/themes/hugo-tania"]
+	path = 2021/themes/hugo-tania
+	url = https://github.com/WingLim/hugo-tania
+[submodule "2021/themes/anubis"]
+	path = 2021/themes/anubis
+	url = https://github.com/mitrichius/hugo-theme-anubis.git

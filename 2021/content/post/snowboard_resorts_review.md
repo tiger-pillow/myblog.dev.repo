@@ -1,6 +1,7 @@
 ---
-title: "Gladys' Favorite Resorts Ranked, 2020-21"
+title: "Ski/Snowboard Resorts Ranked, 2020-21"
 date: 2021-05-13T11:38:01-07:00
+categories: ["Outdoor"]
 draft: true
 ---
 # Snowboarded for 50 days this season. Wish I could say this every year. Here are the reviews! 

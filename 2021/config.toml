@@ -1,7 +1,8 @@
 baseURL = "https://tiger-pillow.github.io/"
 languageCode = "en-us"
-title = "Gladys Fang"
+title = "Gladys Fang's Stuff"
 theme = "yinyang"
+
 
 [markup]
   [markup.goldmark]
@@ -18,8 +19,9 @@ theme = "yinyang"
 
 [params]
 headTitle = "Gladys Fang's stuff"
-subTitle = "Nothing ever becomes real till it is experienced." 
+headSub = "Nothing ever becomes real till it is experienced." 
 mainSections = ["post"]
+
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
 
 [[params.socials]]

@@ -1,6 +1,7 @@
 ---
 title: "Yale Reflections #2 - Research"
-date: 2021-05-14T23:29:10-07:00
+date: "2021-05-14T23:29:10-07:00"
+categories: ["Yale"]
 draft: true
 ---
 If you are interested in doing research at the undergraduate level, read on! I had many pitfalls to write this guide for you. 
