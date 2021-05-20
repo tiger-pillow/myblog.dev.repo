@@ -63,7 +63,7 @@ Prof. Eisenstat is a legend. His courses CPSC 230 and CPSC 323 are the rite of p
 
 Boy this class was HARD. I expected it to be difficult, but not this difficult. Before CPSC223, I didn't even know what a SSH key was, not to mention memory leaks or time complexity. 
 
-But this is also the best kinda of course -- incredibly challenging with incredible support. The support system with TA Chris Lim (who unfortunately passed away due to a car [accident](https://law.yale.edu/yls-today/yale-law-school-events/loving-memory-chris-lim)) and wonderful ULAs (undergraduate learning assistants). Without them I would never have passed the test scripts. The assignments are very difficult, but Prof. Eisenstat has so many office hours and replys to your emails within 12 hours usually. It's for these reasons that Yale is Yale, that it lives up to its reputation (and maybe tuition). 
+But this is also the best kinda of course -- incredibly challenging with incredible support. The support system with TA Chris Lim (who unfortunately passed away due to a car [accident](https://law.yale.edu/yls-today/yale-law-school-events/loving-memory-chris-lim)) and wonderful ULAs (undergraduate learning assistants). Without them I would never have passed the test scripts. The assignments are very difficult, but Prof. Eisenstat has so many office hours and replys to your emails within 12 hours usually. It's for these people that Yale is Yale, that it lives up to its reputation (and maybe tuition). 
 
 Two things I learned: <ol>
     <li> **You will get there** <p>

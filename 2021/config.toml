@@ -18,10 +18,10 @@ theme = "yinyang"
 
 [params]
 headTitle = "Gladys Fang's stuff"
-Subtitle = "Nothing ever becomes real till it is experienced." 
+subTitle = "Nothing ever becomes real till it is experienced." 
 mainSections = ["post"]
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
 
 [[params.socials]]
 name = "About Me"
-link = "https://tiger-pillow.github.io/post/about.md"
+link = "https://tiger-pillow.github.io/post/about/"
