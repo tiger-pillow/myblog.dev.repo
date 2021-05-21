@@ -1,6 +1,6 @@
 ---
 title: "Yale Reflections #3 - Relationships"
-date: 2021-05-20T06:59:45-07:00
+date: 2021-05-15T06:59:45-07:00
 categories: ["Yale"]
 draft: true
 ---

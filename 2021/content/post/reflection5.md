@@ -1,6 +1,6 @@
 ---
 title: "Yale Reflections #5 - Pieces of Yale (photos)"
-date: 2021-05-20T11:36:55-07:00
+date: 2021-05-17T11:36:55-07:00
 categories: ["Yale"]
 draft: true
 ---
