@@ -51,7 +51,7 @@ Gear list非常长，其中有很多设备我都没有摸过，比如crampon, pl
 
 第三段过了，lead guide James终于说我们可以休息一下，找了一小块开朗的区域，但是我们都是坐在很陡的坡上。任何东西没放在雪里，就会一路滚下去。我这时候想上厕所了，只好问James说该怎么办（我们都穿着climbing harness, 加上其他人全是男的，完全没有遮蔽物）。James把我从大rope上解下来，给我系上了一个短的leash，我们就往uphill的方向走了五六米左右。我跟大家说往山下看，不要回头，解开了climbing harness背后的扣子，蹲了下来，然后留下了我在Ingraham glacier顶端的痕迹。James人很好，也没让我觉得尴尬，反倒觉得这个过程挺有趣的。
 
-![crevasses](/post/climbRainier/crevasse1.jpg)
+![crevasses](/post/climbRainier/crevasse1.JPG)
 
 
 最后一段push我也没什么印象了，只是记得并没有很难，就这样到了Rainier的顶端。Rainier是一座活火山，火山的顶上是凹进去的。顶上覆盖住厚厚的积雪，而且四周是一圈crate，是看不见风景的。Summit的尺寸大概有三到四个足球场那么大。James问我们有没有人想去crate顶上（这样才能看到外面的风景），我想了想说，来都来了，再走40分钟也不是问题。我和Scott, James三个人就又往上爬了25分钟，其他人坐在crate里面修整。 
