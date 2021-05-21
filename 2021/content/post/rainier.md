@@ -1,5 +1,5 @@
 ---
-title: "Climb Mt.Rainier vis Ingraham Direct Route"
+title: "Climb Mt.Rainier via Ingraham Direct Route"
 date: 2021-05-21T12:28:23-07:00
 categories: ["Outdoor"]
 draft: true
