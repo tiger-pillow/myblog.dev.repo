@@ -3,7 +3,6 @@ title: "第一百遍重读《哈利波特》"
 date: 2021-05-31T11:14:29-07:00
 categories: ["Nonsense"]
 ---
-
 我自从小学6年级以来，几乎每年都要重读一遍哈利波特，有时候是一两本，有时候是全7本。说来都有些惭愧，好得是受过“精英教育”的高材生了，为什么还在读这种儿童读物。你这水平，不应该读些马尔克斯，卡尔维诺，普鲁斯特么？
 
 所以我得承认，水平就是不行。《霍乱时期的爱情》我是强行读完了，但除了对书中肉体欲望，异国景致的描写，没看出个所以然，最后还是知乎教会我中心主旨。普鲁斯特就更别提了，幸好我只买了第一卷《追忆逝水年华》，因为我可能连前50页都没撑过去。我有些学姐学长后来留校读法语，意大利语文学的博士，我对他们佩服不已，羡慕他们能理解那样的文字。
@@ -55,23 +54,23 @@ HP是我逃离现实的办法 -- 每年期末考试我都会重新翻开。比�
 
 # 一些我至爱至爱的quotes: 
 
-"You think the dead we loved truly ever leave us? You think that we don’t recall them more clearly in times of great trouble?" — Albus Dumbledore
+> "Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it." ― Albus Dumbledore
 
-"Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it." ― Albus Dumbledore
+> "Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?" ― Albus Dumbledore
 
-"Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?" ― Albus Dumbledore
+> "You think the dead we loved truly ever leave us? You think that we don’t recall them more clearly in times of great trouble?" — Albus Dumbledore
 
-"The thing about growing up with Fred and George is that you sort of start thinking anything's possible if you've got enough nerve." — Ginny Weasley
+> "Things we lose have a way of coming back to us in the end, if not always in the way we expect." ― Luna Lovegood.
 
-"You’re just as sane as I am." —Luna Lovegood
+> "The thing about growing up with Fred and George is that you sort of start thinking anything's possible if you've got enough nerve." — Ginny Weasley
 
-"Things we lose have a way of coming back to us in the end, if not always in the way we expect." ― Luna Lovegood.
+> "You’re just as sane as I am." —Luna Lovegood
 
-"If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals." — Sirius Black
+> "If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals." — Sirius Black
 
-"It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends." ― Albus Dumbledore
+> "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends." ― Albus Dumbledore
 
-"It is our choices, Harry, that show what we truly are, far more than our abilities." — Albus Dumbledore
+> "It is our choices, Harry, that show what we truly are, far more than our abilities." — Albus Dumbledore
 
 
 
