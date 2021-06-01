@@ -2,7 +2,7 @@
 title: "一个人能理解的乐趣"
 date: 2021-06-01T11:01:52-07:00
 categories: ["Nonsense"]
-draft: true
+draft: false
 ---
 我2018年在Chamonix的山上时，晚上和一大群陌生人吃饭。在山顶的小木屋里，我旁边坐着两个瑞士人，都是职业小提琴家，住在Interlaken，欧洲著名的音乐中心。我们闲聊，不知不觉聊到我在耶鲁上学
 
