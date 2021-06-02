@@ -1,7 +1,7 @@
 ---
 title: "关于爸妈的一些片段"
 date: 2021-06-01T10:50:18-07:00
-categories: ["Nonsense"]
+categories: ["Babble"]
 draft: false
 ---
 ## 关于好奇
