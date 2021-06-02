@@ -1,5 +1,5 @@
 ---
-title: "一个人能理解的乐趣"
+title: "一个人能理解的乐趣是有限的"
 date: 2021-06-01T11:01:52-07:00
 categories: ["Babble"]
 draft: false
