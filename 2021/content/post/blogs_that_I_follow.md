@@ -17,7 +17,7 @@ draft: true
 1. [Mediocre Amature，大佬的户外生活](https://www.youtube.com/channel/UC-04mJDJUYHEyE8JPIEa0-w)
 2. [Cody and Victoria，夫妻的户外生活](https://www.youtube.com/c/CodyBlue)
 3. [大概是井越，从平凡中找出新意](https://space.bilibili.com/91236407?from=search&seid=3477529556349484715)  
-
+4. [Animalogic](https://www.youtube.com/channel/UCwg6_F2hDHYrqbNSGjmar4w) 大概是我最喜欢的频道了，讲各种有趣的动物知识，每一个都不太长（十几分钟左右），非常适合休息的时候看。
 我看的比列举的多很多，但只有这三个觉得值得。
 
 ### 播客
