@@ -19,7 +19,7 @@ draft: true
 3. [大概是井越，从平凡中找出新意](https://space.bilibili.com/91236407?from=search&seid=3477529556349484715)  
 4. [Animalogic](https://www.youtube.com/channel/UCwg6_F2hDHYrqbNSGjmar4w) 大概是我最喜欢的频道了，讲各种有趣的动物知识，每一个都不太长（十几分钟左右），非常适合休息的时候看。
 我看的比列举的多很多，但只有这三个觉得值得。
-5. [Tinman Elite](https://www.youtube.com/channel/UCTxG34nhYtkLW8jh2Su9Y7w) -- I can't imagine I forgot this. 看看一群顶尖美国田径运动员住在Boulder日常的训练，这些人大多是sub-4 miler，可以看到一手的痛苦。"Necessary Evil" as said。很是有趣，我觉得也是我想去Boulder的一个重要原因吧
+5. [Tinman Elite](https://www.youtube.com/channel/UCTxG34nhYtkLW8jh2Su9Y7w) -- I can't imagine I forgot this. 看看一群顶尖美国田径运动员住在Boulder日常的训练，这些人大多是sub-4 miler，可以看到一手的痛苦。"Necessary Evil" as said。很是有趣，我觉得也是我想去Boulder的一个重要原因吧。
 
 ### 播客
 1. [迟早更新](https://podcast.weareones.com/)
