@@ -1,5 +1,5 @@
 ---
-title: "What's wrong with Airbnb's slogan / 留学生身上的大陆模样"
+title: "What's wrong with Airbnb's slogan & 留学生身上的中国印记"
 date: 2021-06-16T13:08:43-07:00
 categories: ["Travel"]
 draft: true
