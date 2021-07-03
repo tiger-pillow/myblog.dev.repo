@@ -1,7 +1,7 @@
 ---
 title: "十年后重读《呼啸山庄》，以及反思我所收到的语文/文学教育"
 date: 2021-06-22T15:22:26-07:00
-categories: ["Reading"]
+categories: ["Babble"]
 draft: true
 ---
 
