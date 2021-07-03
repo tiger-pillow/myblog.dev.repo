@@ -1,7 +1,7 @@
 ---
 title: "2021阅读记录（持续更新)"
 date: 2021-06-29T10:11:09-07:00
-categories: ["babble"]
+categories: ["Babble"]
 draft: true
 ---
 
