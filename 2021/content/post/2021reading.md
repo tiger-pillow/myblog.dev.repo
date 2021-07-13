@@ -60,4 +60,11 @@ draft: true
 20. Persuasion 4/5   
     奥斯汀的倒数第二本小说，比Sense and Sensibility写的紧凑很多，情节更加曲折，人物的轮廓也更加清晰。但是人物有些多了，有一部分没有交代清楚就结婚了？
 
+21. Anna Karenina 5/5 
+    Wow indeed a masterpiece. Tolstoy addresses issues of birth, death, marriage, aging, religion, politics, farming, nature ... all in one book and all to a very satsifactory depth. With almost 900 pages, it's not an easy read and took me almost two weeks to finish. I had to put the book down often, not that it's dreading me but due to the intense emotions. Part VIII contains too much Chrisitian anarchism preaching to be interesting to me. I can't imagine there can be any adequate film adaptation of this. This is too complex for that. Maybe a well-made TV series can capture all. 
+
+22. Everything I know about love 4/5 
+    I craved for an easy read after Tolstoy, and JY recommended this book to me. Dolly Alderton has a gifted, very unique use of lanaguage. It's so sassy and funny and relatable. The book is about a girl's coming of age and struggling through her twenties. 
+
+23. 
 ... 
