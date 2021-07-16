@@ -5,7 +5,7 @@ draft: true
 ---
 Hi, 
 
-I am Gladys. 
+I am Yiyuan. 
 
 I am interested in Evolutionry Biology. I graduated from Yale College in 2021. 
 I will be attending Ecole Polytechnique de Lausanne in September 2021. 
