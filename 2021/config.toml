@@ -15,10 +15,10 @@ theme = "yinyang"
     tabWidth = 2
 
 [author]
-  name = "Gladys" 
+  name = "YF" 
 
 [params]
-headTitle = "Gladys Fang's stuff"
+headTitle = "Yiyuan Fang's stuff"
 headSubTitle = "Nothing ever becomes real till it is experienced." 
 mainSections = ["post"]
 
