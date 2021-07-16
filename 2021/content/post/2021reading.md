@@ -66,5 +66,8 @@ draft: true
 22. Everything I know about love 4/5   
     I craved for an easy read after Tolstoy, and JY recommended this book to me. Dolly Alderton has a gifted, very unique use of lanaguage. It's so sassy and funny and relatable. The book is about a girl's coming of age and struggling through her twenties. 
 
-23. 
+23. Lost Continent by Bill Bryson 5/5 
+    Hilarious book about Bryson's road trip across 38 states (out of the lower 48). He didn't hit the big cities, but instead chose the obscure towns and dilapidated roads. It enlightens me on how travel writing can still be quite meaningful in this digital age, where articles like "top ten must-see in Seattle" are everywhere and overly accessible. It's, afterall, about a fresh pair of eyes. 
+
+24. Debating what I should read next....
 ... 
