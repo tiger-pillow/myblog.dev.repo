@@ -69,5 +69,8 @@ draft: true
 23. Lost Continent by Bill Bryson 5/5   
     Hilarious book about Bryson's road trip across 38 states (out of the lower 48). He didn't hit the big cities, but instead chose the obscure towns and dilapidated roads. It enlightens me on how travel writing can still be quite meaningful in this digital age, where articles like "top ten must-see in Seattle" are everywhere and overly accessible. It's, afterall, about a fresh pair of eyes. 
 
-24. Debating what I should read next....
+24. Never let me go by Kazuo Ishiguro 5/5   
+    Maybe my understanding that Ishiguro had won the Nobel Prize interfered with my judgement of this book, and reminded me to pay more attention to the symbolism, to the language, and the idea he is trying to convey through the fictional world. But overall an excellent fiction that conveys "the relentless passage of time" in very beautiful, powerful, simple strands of thoughts. An absolutely delightful read. 
+
+
 ... 
