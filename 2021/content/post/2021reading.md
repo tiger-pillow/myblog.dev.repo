@@ -72,5 +72,10 @@ draft: true
 24. Never let me go by Kazuo Ishiguro 5/5   
     Maybe my understanding that Ishiguro had won the Nobel Prize interfered with my judgement of this book, and reminded me to pay more attention to the symbolism, to the language, and the idea he is trying to convey through the fictional world. But overall an excellent fiction that conveys "the relentless passage of time" in very beautiful, powerful, simple strands of thoughts. An absolutely delightful read. 
 
+25. A Pale of Hills by Kazuo Ishiguro 4/5 
+    The first novel by Ishiguro. Same elegiac, peaceful, simple tone. Guild and sadness are looming in the background. I read it for two reasons. One is to see the development of Ishiguro's writing, and I discovered that all the elements are present already, albeit a little simpler. The other reason is that it depicts an imaginary Japan, the Japan in his head that he had never been. I can see how the scenes, the western apartment building on the bank of Nagasaki can be from his memories, but the overall plot is not a memorial or attempt to preserve. Beautiful, easy read. 
+
+
+
 
 ... 
