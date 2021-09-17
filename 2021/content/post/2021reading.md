@@ -2,7 +2,6 @@
 title: "2021阅读记录（持续更新)"
 date: 2021-06-29T10:11:09-07:00
 categories: ["Babble"]
-draft: true
 ---
 
 1. Normal People  5/5   
@@ -93,5 +92,13 @@ draft: true
 31. Midnight Library by Matt Haig 5/5   
     The best contemporary novel I've read this year. Spoiler: in parallel universe, you could have lived differently, and one tiny decision has subsequent butterfly effects that dramatically change your life. What would you do if you get a chance to experience them all? It's not the most out-of-no-where idea, but very few writers have elaborated on it in such a philospohical and satisfying manner. It certainly has inspired me to look at life differently, to have less regrets. The only way to learn is to live itself. Highly recommend! 
 
+32. La vie devant soi 4/5 
+    Il s'agit de plusieurs facettes de la vie à Paris, surtout parmi les plus pauvres. Toutes les histoires sont racontées à travers les yeux d'un enfant, Momo. C'est un peu difficile pour moi à cause des mots speciale. 
+
+33. Elle et Lui par Marc Levy 3/5 
+    Une histoire romantique entre une actrice et un écrivan. Plus facile que la vie devant soi. 
+
+34. How Proust can change your life 
+    In progress 
 
 ... 
