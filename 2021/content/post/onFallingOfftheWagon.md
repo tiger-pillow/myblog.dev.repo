@@ -6,7 +6,7 @@ draft: true
 ---
 I got "on the wagon" in August -- meaning that I've amped up my milage significantly, over 120 miles per month, and sometimes even over 100km per week. Two months have passed since then, and I have learned so much about my body, my own mental processes, time, dealing with expectations, past performances etc. 
 
-I have a troubled relationship with running -- I used to run excessively to lose weight, borderline aneoric, had suicidal attempts due to the stress of my races. Since high school, I have worked on my relationship with running, and now it has got to a steady point. I start to enjoy it again, and start to set goals for myself. 
+I have a troubled relationship with running -- I used to run excessively to lose weight, was borderline aneoric, had anxiety attack due to running races. Since high school, I have worked on my relationship with running, and now it has got to a steady point. I start to enjoy it again, and start to set goals for myself. 
 
 There are a few lessons I learned about sports that are quite different from other kinds of work. 
 
