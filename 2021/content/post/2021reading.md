@@ -98,7 +98,16 @@ categories: ["Babble"]
 33. Elle et Lui par Marc Levy 3/5 
     Une histoire romantique entre une actrice et un écrivan. Plus facile que la vie devant soi. 
 
-34. How Proust can change your life 
+34. How Proust can change your life 4.5/5 
+    Wonderful, just as all Alain de Botton's book, really helped me to zoom in and rethink about time and living in the present. I wish I read Proust (that's another major endavor on its own that's worth a good three months if not more)
+
+35. Beautiful world, where are you by Sally Rooney 3.5/5 
+    I love Sally Rooney's style, her ardently feminine perspective, her details and nuanced observations. However this book has too much discussion about climate change and the problems that come with fame. I still relate to the characters very strongly, especially Eileen and Simon, but not so much Felix and Alice. 
+
+36. Conversation with friends by Sally Rooney 5/5
+    I couldn't help but dig up her debut work -- boy I love this book. So many good excerpts -- I think I will dedicate another blog post to this book. Highly highly recommend. 
+
+37. Four thousand weeks 5/5 
     In progress 
 
 ... 

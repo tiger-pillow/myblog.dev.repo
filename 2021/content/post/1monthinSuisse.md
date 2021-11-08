@@ -2,7 +2,7 @@
 title: "1 month in Switzerland"
 date: 2021-09-17T08:50:09+02:00
 categories: ["Babble"]
-draft: true
+draft: False
 ---
 It's not one month yet but I just couldn't wait to update on life in Lausanne. 
 

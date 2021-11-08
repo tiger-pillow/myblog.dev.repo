@@ -2,7 +2,7 @@
 title: "Climbing the Mont Blanc"
 date: 2021-09-17T09:44:41+02:00
 categories: ["Outdoor"]
-draft: true
+draft: False
 ---
 ![Mont Blanc](/post/MontBlanc/IMG_0864.jpg)The alps from high up
 
@@ -42,6 +42,5 @@ Another interesting thing is that I met a Chinese couple at Tete Rousse refuge, 
 The climb itself is a lot simpler than what I've epected, much easier than early season Rainier. I don't think my effort level has passed 5/10 at any point of the climb. This might be due to my previous acclimatizing at Gran Paradiso. There are very few crevasses, the slopes are gentle. Only a small stretch is quite exposed and composed of very soft snow. If properly acclimatized, I think I can climb from Nid d'Aigle to the Summit and comeback in one day -- it's going to be a long ass day and I need to be fitter than I am now, but doable. 
 
 Overall, climbing mont blanc is a humbling experience. The panoramic sceneary from the summit will always be in the back of my mind, reminding me that there is something greater than the mundane tasks and the household drudge. My daily anxieties and concerns become so negligible when I look up at the glacier from the foot the alps. The mountain guides introduced me to new displines, new levels of fitness (run a verticle KM in 1h!), and inspired me to do much more. For some strange reasons -- I am much more comfortable in my own skin, acknowledging my abilities and shortcomings, aspiring to learn new skills and being more motivated than ever. 
-
 
 ![Mont Blanc](/post/MontBlanc/IMG_0989.jpg)The twilight after summit day 
