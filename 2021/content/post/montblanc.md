@@ -22,13 +22,13 @@ The guides are not your local farmer who knows the surrounding mountains. They a
 
 There is one of them I admire, and let's call him F. F grew up in a small Italian mountain town and became ceritifed in 2008. He has been working all over the world then -- Summers spent in New Zeland and the alps, winters spent in Hokkaido Japan. He has lived in his car for over twenty years, a necessary trade-off to be so close to the mountains. He admits that he never reads the news, knows nothing about popular culture, and is perfectly happy with being a hippie. Life is spent on uphill trail running, alpine climbing, ice climbing, rock climbing, skiing, and paragliding! It's not a glamorous lifestyle and certainly not for most people - he admits that most of the time he doesn't know where he will be and what he will do next week. But it's truly free in another sense. 
 
-![Mont Blanc](/post/montblanc/IMG_0934.jpg)On the summit, gorgeous day
+![Mont Blanc](/post/montblanc2/IMG_0934.jpg)On the summit, gorgeous day
 
 He is the one who short-roped R and D up the Mont Blanc (short roping is a technique to provide greater assistance to the people on the same rope team). Another interesting aspect is that, even though he has never been to college, he is very curious, well-read and intelligent. He wants to know the inner workings of a film camera, the specifics of a STD, or the similarities between Japanese and Chinese. 
 
 It's all very fascinating to me. Their lifestyle attracts me way more than the other climbers on the team. Growing up in Beijing, I've been instilled unconsciously with "a typical way of living" -- good grades, college, respectful jobs. I was encouraged to dream big, start a company and bring it to the IPO. I've always had a routine, a place to go back and shower, a plan for the next week (at least). These mountain guides make me realize that there is another way of living -- to be close to nature, to sustain oneself on an ancient craft, to perfect and always maintain the physical fitness. 
 
-![Mont Blanc](/post/montblanc/IMG_0899.jpg)About 1.5h from the summit -- the summit cannot be seen from this angle.
+![Mont Blanc](/post/montblanc2/IMG_0899.jpg)About 1.5h from the summit -- the summit cannot be seen from this angle.
 
 The life is not for most people, but I can see myself living it though. I've always been very basic -- I am by no means a foodie, almost never use makeup or and take no interest in fashion. I don't mind not showering for days and sleeping in the back of a car. In exchange, I get to climb, run, ski. I will probably get hungry for information, but a well-stocked Kindle should solve the problem. 
 
@@ -36,11 +36,11 @@ If the physical hardship is not the problem, citizenship and legal status become
 
 Another interesting thing is that I met a Chinese couple at Tete Rousse refuge, and they work in the outdoors industry! They both went to college, studied computer science or other "normal subjects", but decide to work as guides and event planners. They are not necessarily crazy good (they are quite slow on the scramble from Tete Rousse to Gouter), but it's a possibility of life. 
 
-![Mont Blanc](/post/montblanc/IMG_1036.jpg) 5am scramble down from Gouter to Tete Rousse
+![Mont Blanc](/post/montblanc2/IMG_1036.jpg) 5am scramble down from Gouter to Tete Rousse
 
 
 The climb itself is a lot simpler than what I've epected, much easier than early season Rainier. I don't think my effort level has passed 5/10 at any point of the climb. This might be due to my previous acclimatizing at Gran Paradiso. There are very few crevasses, the slopes are gentle. Only a small stretch is quite exposed and composed of very soft snow. If properly acclimatized, I think I can climb from Nid d'Aigle to the Summit and comeback in one day -- it's going to be a long ass day and I need to be fitter than I am now, but doable. 
 
 Overall, climbing mont blanc is a humbling experience. The panoramic sceneary from the summit will always be in the back of my mind, reminding me that there is something greater than the mundane tasks and the household drudge. My daily anxieties and concerns become so negligible when I look up at the glacier from the foot the alps. The mountain guides introduced me to new displines, new levels of fitness (run a verticle KM in 1h!), and inspired me to do much more. For some strange reasons -- I am much more comfortable in my own skin, acknowledging my abilities and shortcomings, aspiring to learn new skills and being more motivated than ever. 
 
-![Mont Blanc](/post/montblanc/IMG_0989.jpg)The twilight after summit day 
+![Mont Blanc](/post/montblanc2/IMG_0989.jpg)The twilight after summit day 
