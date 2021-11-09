@@ -4,7 +4,7 @@ date: 2021-09-17T09:44:41+02:00
 categories: ["Outdoor"]
 draft: False
 ---
-![Mont Blanc](/post/montblanc/IMG_0864.jpg)The alps from high up
+![Mont Blanc](/post/montblanc2/IMG_0864.jpg)The alps from high up
 
 I sometimes question my motivations to do things -- Did I run the marathon in order to post on Instagram? Did I climb the mountain to impress people on Wechat? Sometimes during my long runs I would compose the Instagram post in my head and imagine all the likes I will gather. I dislike myself for doing things to win the admirations of others, but I do, until this Mont Blanc climb. 
 
@@ -12,7 +12,7 @@ I almost didn't post anything about summing MB. I didn't feel like letting other
 
 But What I loved the most about this trip (and trips like this in general) is the people. The people here are madly, MADLY interesting. It was a group of 9 for us, and here are some brief snapshots of their backgrounds. It's amazing how mountains bring people from various walks of life together, and how mountains bring out the best of them. 
 
-![Mont Blanc](/post/montblanc/IMG_0827.jpg)Mont Blanc from Nid d'Aigle
+![Mont Blanc](/post/montblanc2/IMG_0827.jpg)Mont Blanc from Nid d'Aigle
 
 P and N are a father and son couple. P was a doctor, but quitted medicine and started numerous small business himself. He lost 30kg in order to climb the MB. N is a medical student at Cambridge, capable of conversing with anyone (a trait that I am jealous of!). R and D are friends and climbing buddies for decades. R is 70 years old! It's their 5th attempt at the Mont Blanc (I am so glad they made it). A and J are an American couple on their honeymoon. M is a single woman from the Netherlands who have climbed the Acongcagua. They are at different age stages and come to Mont Blanc for different reasons. Mountaineering often involves lots of time waiting for the right weather window, or waiting to go to bed (no internet!), and the best form of entertainment is talking to the people and listening to their stories. It was a true pleasure to meet and get to know them a little. 
 
