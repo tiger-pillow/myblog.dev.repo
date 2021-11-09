@@ -7,7 +7,7 @@ Hi,
 
 I am Yiyuan. 
 
-I am interested in evolutionry biology. I am a 1st- year master's student at [Ecole Polytechnique de Lausanne](https://www.epfl.ch/fr/) since September 2021. 
+I am interested in evolutionry biology. I am a 1st-year master's student at [Ecole Polytechnique de Lausanne](https://www.epfl.ch/fr/) since September 2021. 
 
 I graduated from Yale College in 2021 where I majored in Ecology and Evolutionary Biology. 
 
