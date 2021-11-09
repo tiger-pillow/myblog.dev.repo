@@ -89,22 +89,22 @@ categories: ["Babble"]
 30. People We Meet on Vacations by Emily Henry 1/5   
     I geinuely don't know why I opened up another book by her. I was a little surprised that it was published Penguine Random House. Since when did they start publishing terrible books like this? Or did I completely miss some key points? It's categorized as a rom-com, and I don't think I laughed even once (if you don't count the one time I laughed at myself for finishing this book). Too dramatic, characters filmsy and unrealistic, dialogues remind me of fictional essays by 7th graders. Terrible. 
 
-31. Midnight Library by Matt Haig 5/5   
+31. Midnight Library by Matt Haig 5/5    
     The best contemporary novel I've read this year. Spoiler: in parallel universe, you could have lived differently, and one tiny decision has subsequent butterfly effects that dramatically change your life. What would you do if you get a chance to experience them all? It's not the most out-of-no-where idea, but very few writers have elaborated on it in such a philospohical and satisfying manner. It certainly has inspired me to look at life differently, to have less regrets. The only way to learn is to live itself. Highly recommend! 
 
-32. La vie devant soi 4/5 
+32. La vie devant soi 4/5   
     Il s'agit de plusieurs facettes de la vie à Paris, surtout parmi les plus pauvres. Toutes les histoires sont racontées à travers les yeux d'un enfant, Momo. C'est un peu difficile pour moi à cause des mots speciale. 
 
-33. Elle et Lui par Marc Levy 3/5 
+33. Elle et Lui par Marc Levy 3/5   
     Une histoire romantique entre une actrice et un écrivan. Plus facile que la vie devant soi. 
 
-34. How Proust can change your life 4.5/5 
+34. How Proust can change your life 4.5/5   
     Wonderful, just as all Alain de Botton's book, really helped me to zoom in and rethink about time and living in the present. I wish I read Proust (that's another major endavor on its own that's worth a good three months if not more)
 
-35. Beautiful world, where are you by Sally Rooney 3.5/5 
+35. Beautiful world, where are you by Sally Rooney 3.5/5  
     I love Sally Rooney's style, her ardently feminine perspective, her details and nuanced observations. However this book has too much discussion about climate change and the problems that come with fame. I still relate to the characters very strongly, especially Eileen and Simon, but not so much Felix and Alice. 
 
-36. Conversation with friends by Sally Rooney 5/5
+36. Conversation with friends by Sally Rooney 5/5cc
     I couldn't help but dig up her debut work -- boy I love this book. So many good excerpts -- I think I will dedicate another blog post to this book. Highly highly recommend. 
 
 37. Four thousand weeks 5/5 
