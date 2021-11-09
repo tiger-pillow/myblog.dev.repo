@@ -7,9 +7,10 @@ Hi,
 
 I am Yiyuan. 
 
-I am interested in Evolutionry Biology. I graduated from Yale College in 2021. 
-I will be attending Ecole Polytechnique de Lausanne in September 2021. 
+I am interested in evolutionry biology. I am a 1st- year master's student at [Ecole Polytechnique de Lausanne](https://www.epfl.ch/fr/) since September 2021. 
 
-Some other things that I do include: snowboarding/skiing, guitar, hiking, trail running, [figure skating](https://www.bilibili.com/video/av80437018/), badminton. I code, take some photos and write a bit. 
+I graduated from Yale College in 2021 where I majored in Ecology and Evolutionary Biology. 
+
+Talk to me about: snowboarding/skiing, guitar, trail running, [figure skating](https://www.bilibili.com/video/av80437018/), badminton. I code, take some photos and write a bit. 
 
 You can contact me at gladysfangcs dot gmail 
