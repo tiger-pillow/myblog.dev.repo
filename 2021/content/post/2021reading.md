@@ -5,7 +5,7 @@ categories: ["Babble"]
 ---
 
 1. Normal People  5/5   
-    年轻人的爱情故事，发生在爱丁堡，语言和文风都极其优美，非常喜欢。一口气读完。
+    年轻人的爱情故事，发生在爱丁堡。极其细腻真实的女性视角，性格鲜明稳定的两个主人公，恰到好处的情节发展和叙事设计。Sally Rooney已经被各大媒体夸奖一番了，但她的确deserve the reputation. 
 
 2. The perks of being walllpaper 4/5   
     本来为了上课读的，但是最后也没上那门课，作为YA不算糟糕。
@@ -104,7 +104,7 @@ categories: ["Babble"]
 35. Beautiful world, where are you by Sally Rooney 3.5/5  
     I love Sally Rooney's style, her ardently feminine perspective, her details and nuanced observations. However this book has too much discussion about climate change and the problems that come with fame. I still relate to the characters very strongly, especially Eileen and Simon, but not so much Felix and Alice. 
 
-36. Conversation with friends by Sally Rooney 5/5cc
+36. Conversation with friends by Sally Rooney 5/5  
     I couldn't help but dig up her debut work -- boy I love this book. So many good excerpts -- I think I will dedicate another blog post to this book. Highly highly recommend. 
 
 37. Four thousand weeks 5/5 

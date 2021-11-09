@@ -12,6 +12,10 @@ draft: true
 3. [编程随想的博客，技术和政治](https://program-think.blogspot.com/)
 4. [Paul Graham，创业，态度，艺术](http://www.paulgraham.com/)
 5. [Wait but Why，脑洞](https://waitbutwhy.com/)
+6. [Naval](https://nav.al/)
+
+### 旅行/Nomad Life
+1. 
 
 ### 视频(Youtube或者Bilibili)
 1. [Mediocre Amature，大佬的户外生活](https://www.youtube.com/channel/UC-04mJDJUYHEyE8JPIEa0-w)
