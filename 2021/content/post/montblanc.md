@@ -1,5 +1,5 @@
 ---
-title: "Climbing the Mont Blanc"
+title: "Climbing the Mont Blanc (with photos)"
 date: 2021-09-17T09:44:41+02:00
 categories: ["Outdoor"]
 draft: False

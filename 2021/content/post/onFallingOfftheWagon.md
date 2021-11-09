@@ -2,7 +2,7 @@
 title: "On Falling Off the Wagon -- Reflections on Running"
 date: 2021-11-07T17:55:08+02:00
 categories: ["Outdoors"]
-draft: true
+draft: True
 ---
 I got "on the wagon" in August -- meaning that I've amped up my milage significantly, over 120 miles per month, and sometimes even over 100km per week. Two months have passed since then, and I have learned so much about my body, my own mental processes, time, dealing with expectations, past performances etc. 
 
