@@ -1,5 +1,5 @@
 ---
-title: "Passages that I enjoy "
+title: "Passages that I enjoy"
 date: 2022-01-15T22:40:02+01:00
 categories: ["Readings"]
 draft: true
@@ -31,3 +31,28 @@ Feymnman said something similar --- "almos everything is interesting if you go i
 ### On life's elusiveness 
 > Seeing how cheap and ugly they were (their childhood dolls) I felt confused. Unlike stories, real life, when it has passed, inclines toward obscurity, not clarity. 
 
+
+### On working hard 
+> I used to write from midnight to four o'clock. I had young children then, various jobs (from working with mice to working with cadaver tissue to teaching writing), and an ambition to keep writing separate from my real life. When most people were being ferried across the night by sleep, unaware of time, unaware of weather, I felt the luxury of living on the cusp of reality. Night for those sound sleepers was a cocoon against time. For me, I wanted to believe, it was even better. Time, at night, was my possession, not the other way around. 
+
+### an ambition person vs a dreamer 
+> Apart from feeling unqualified to be called a dreamer, I may also be worrying about being mistaken for one of those who call themselves dreamers but are merely ambitious. One meets them often in life, their ambitions smaller than dreams, more commonplace, in need of broadcasting and dependent on recognition from this particular time. If they cause pain to others, they have no trouble writing of those damages as the cost of their dreams. 
+
+### On killing time 
+> To kill time -- an English phrase that still chills me: time can be killed only by frivolous matters and purposeless activities.
+
+### We are fundamentally lonely
+> Often I think that writing is a futile effort; so is reading; so is living. Loneliness is the inability to speak with another in one's private language. That emptiness is filled with public language or romanticized connections. But one must be cautious when assuming meaning. A moment of recognition between two people only highlights the inadequacy of language. What can be spoken does not sustain; what cannot be spoken undermines. 
+
+### On looking for solutions in books
+> For years I have had the belief that all my questions will be answered by the books I am reading. Books, however, only lead to other books. 
+
+### on decisive, yet mundane moments 
+> I checked out The Hill Bachelors, Trevor's newest collection, after reading the story, and trudged through the snow from the university library to the student union, where I sat on a green sofa next to a movie theater where films in foreign languages drew a limited crowd every night. Details preserved by memory can be dull, significant only to the one remembering, but it is the mundane that remains mysterious. 
+
+### on not talking about books that we like 
+> Trevor's books -- Other People's Worlds, Fools of Fortune, Elizabeth Alone, The Story of Lucy Gault, and many more -- offer me a haven. But even to explain that is to intrude: there is the privacy of Trevor, who has built that space; there is my privacy, too -- in writing and in life one is often sustained by memories unshared. 
+
+
+### why fictional characters are better 
+> One cannot be an adept writer of one's life; nor can one be a discerning reader of that tale. Not equipped with a novelist's tools to create plots and maneuver pacing, to speak omnisciently or abandan an inconvenient point of view, to adjust time's linearity and splice the less connected moments, the most interesting people among us, I often suspect, are flatter than the flattest character in the novel. 
