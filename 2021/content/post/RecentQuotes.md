@@ -1,5 +1,5 @@
 ---
-title: "A Woman's Awakening --- Neapolitan Novels Quotes"
+title: "Passages that I enjoy "
 date: 2022-01-15T22:40:02+01:00
 categories: ["Readings"]
 draft: true
@@ -24,4 +24,10 @@ Feymnman said something similar --- "almos everything is interesting if you go i
 
 ### On men's desire to educate women 
 > I thought about it for a moment, and continued: Maybe there's something mistaken in this desire men have to instruct us; I was young at the time, and I didn't realize that in his wish to transform me was the proof that he didn't like me as I was, he wanted me to be different, or, rather, he didn't want just a woman, he wanted the woman he imagined himself would be if he were a woman. For Franco, I said, I was an opportunity for him to expand into the feminine, to take possession of it: I constituted the proof of his omnipotence, the demonstration that he knew how to be not only a man in the right way but also a woman. And today when he no longer senses me as a part of himself, he feels betrayed. 
+
+### On the role of language and who we are 
+> It occured to me that it was now a linguistic question. She resorted to Italian as if to a barrier; I tried to push her toward dialect, our language of candor. But while her Italian was translated from dialect, my dialect was increasingly translated from Italian, and we both spoke a false langauge. 
+
+### On life's elusiveness 
+> Seeing how cheap and ugly they were (their childhood dolls) I felt confused. Unlike stories, real life, when it has passed, inclines toward obscurity, not clarity. 
 

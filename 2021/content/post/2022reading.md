@@ -11,7 +11,7 @@ The pleasure of reading is multiplied during exam periods. Everything seems fun 
 
 I like both fiction and non-fiction. Non-fiction is not immediately "useful",and thus it is looked-down by some of my more career-oriented acquitances. But it teaches us so much about life. Biographies and history are bounded by the limits of real events. The psychology of those characters are restrained to what they were willing to reveal in interviews (often not very much) and the author's guesswork. In other words, you never seem them as thoroughly as you can see a fictional character. 
 
-Enough of my justification! Hope I will encounter good stories that inspire me. 
+Enough of my justification! Hope you will encounter good stories that inspires you too.
 
 
 #### 1. Neapolitan Novels    by Elena Ferrante     5/5   
