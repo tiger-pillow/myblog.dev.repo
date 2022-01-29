@@ -23,7 +23,7 @@ Interestingly, it's the time I find a female character whom I admire in a book -
 I also talked to a friend into reading this with me, and I am so glad that she found the story interesting too. I can't wait to discuss this with her. So much to talk about -- meandering themes, symbolisms, decisions and transformations of characters. 
 
 
-#### 2. From my life I write to you in your life by Yiyun Li 4.5/5 
+#### 2. From my life I write to you in your life by Yiyun Li 4/5 
 Yiyun Li interests me in particular because she is Chinese, but she writes in English, her second language. She also has a master's in immunology(I was once a bio student), but now a creative writing professor at Princeton. 
 
 Unlike many Asian writers, Yiyun Li lived in Beijing till she was 22, and her English is not perfect (I watched  her interviews on Youtube). Her parents don't speak English, and she refuses to have her books translated -- so her mother can't even read her work. 
@@ -32,5 +32,9 @@ I've wanted to read her fiction for a while now, but for some reason I have trou
 
 So I started with her autobiography, which I adore so far (I am about 2/3 in). She precisely reflects upon the questions that I have in mind ---- what's her relationship with Chinese and English? with her depression (she was hospitalized twice due to suicide attempts)? with the land of China? with the Chinese culture?  
 
-I will write more when I finish it! 
+
+#### 3. Ghosts by Dolly Alderton 4/5 
+Very sassy, very funny, very insightful observations about our modern cosmopolitan life. Such a fun read. 
+
+My only complaint is that the characters are a bit thin in my opinion. 
 

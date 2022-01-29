@@ -50,7 +50,7 @@ Feymnman said something similar --- "almos everything is interesting if you go i
 ### on decisive, yet mundane moments 
 > I checked out The Hill Bachelors, Trevor's newest collection, after reading the story, and trudged through the snow from the university library to the student union, where I sat on a green sofa next to a movie theater where films in foreign languages drew a limited crowd every night. Details preserved by memory can be dull, significant only to the one remembering, but it is the mundane that remains mysterious. 
 
-### on not talking about books that we like 
+### not talking about books that we like 
 > Trevor's books -- Other People's Worlds, Fools of Fortune, Elizabeth Alone, The Story of Lucy Gault, and many more -- offer me a haven. But even to explain that is to intrude: there is the privacy of Trevor, who has built that space; there is my privacy, too -- in writing and in life one is often sustained by memories unshared. 
 
 
