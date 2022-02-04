@@ -56,3 +56,7 @@ Feymnman said something similar --- "almos everything is interesting if you go i
 
 ### why fictional characters are better 
 > One cannot be an adept writer of one's life; nor can one be a discerning reader of that tale. Not equipped with a novelist's tools to create plots and maneuver pacing, to speak omnisciently or abandan an inconvenient point of view, to adjust time's linearity and splice the less connected moments, the most interesting people among us, I often suspect, are flatter than the flattest character in the novel. 
+
+### The real reason of deaht 
+> on death Enfin, ça, c'est ce qu'ont dit les médecins. Ils ne disent jamais qu'un homme de cinquante-cinq ans peut mourir de ne pas avoir été aimé, de ne pas avoir été entendu, d'avoir reçu trop de factures, d'avoir contracté trop de crédits à la consommation, d'avoir vu ses enfants grandir et puis partir, sans vraiment dire au revoir. 
+
