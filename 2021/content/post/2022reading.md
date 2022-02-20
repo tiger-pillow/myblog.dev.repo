@@ -34,7 +34,23 @@ So I started with her autobiography, which I adore so far (I am about 2/3 in). S
 
 
 #### 3. Ghosts by Dolly Alderton 4/5 
-Very sassy, very funny, very insightful observations about our modern cosmopolitan life. Such a fun read. 
+Very sassy, very funny, very insightful observations about our modern cosmopolitan life. Such a fun read! 
+I especially enjoy the parts where she deals with Tinder meets and her father's deterioriating Alzheimer's. I don't know how Dolly Alderton manages to mingle touching moments with witty remarks about the harsh reality. But she can, and it's amazing. 
 
 My only complaint is that the characters are a bit thin in my opinion. 
 
+#### 4. The courage to be disliked 5/5 
+Glad I ran into this fantastic philosophy-psychology book, which answered 90% of the questions that I have been having in my head recently.
+
+There are a few concepts that I enjoy in particular: 
+1. separation of tasks -- whether another person likes you or not, it's not your task, so don't even spare energy on it. Social interaction fear mostly rises from the thought "I want to look XXX in YYY's eyes". 
+
+2. teleology vs etiology -- there is no benefit of lingering around past trauma, past embarrssements, past failures or success. Freudian explanations of every current phenomenon doesn't help you to live your life better. The moment is now, and life is a series of well-lived moments. Be present. 
+
+3. the world is not a competition -- when you see everything as a competition, then everyone becomes your enemy. 
+
+4. you will inevitably be hurt by interpersonal relationships -- unless you are a hermit, or a yeti. 
+
+#### 5. Changer l'eau des fleurs par Valérie Perrin 
+
+En train de le lire, 
