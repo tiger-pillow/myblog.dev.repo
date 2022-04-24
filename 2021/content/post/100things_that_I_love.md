@@ -21,7 +21,7 @@ draft: true
 14. bluebird skiing 
 15. singing 
 16. talking to my mom 
-17. eggplant with fish sauce cooked Chinese style 
+17. 鱼香茄子(a chinese dish)
 18. reread a good book, and reread
 19. new uploads of my favorite youtubers
 20. wasabi peanuts 
@@ -41,4 +41,17 @@ draft: true
 34. mango 
 35. new episodes of favorite podcasts
 36. mountains 
-37. ....in progress....
+37. playing soccer 
+38. badminton 
+39. rock climbing 
+37. mango
+38. durian 
+39. bike 
+40. my garmin fenix 6s 
+41. ring (jewlery)
+42. the Revenant (movie)
+43. mango sticky rice 
+44. James bay's "let it go" 
+45. Hyukoh band (Korean)
+46. slackline
+47. 
