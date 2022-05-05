@@ -1,6 +1,6 @@
 ---
 title: "2022 Reading Records "
-date: 2022-01-20T21:18:45+01:00
+date: 2022-05-06T21:18:45+01:00
 categories: ["Babble"]
 draft: true
 ---
@@ -53,4 +53,11 @@ There are a few concepts that I enjoy in particular:
 
 #### 5. Changer l'eau des fleurs par Valérie Perrin 
 
-En train de le lire, 
+En train de le finir...
+
+
+#### 6. My life in full -- biography by Indra Nooyi (the CEO of Pepsi&Co)
+
+She speaks extremely sincerely in her book, and her messages strong and useful. Two take-aways: 1) she really worked a lot. I mean, A LOT. People who get really coveted positions have made great sacrifices. Juggling between her enormous business responsibilities, constant travel and a young family of two daughters, I can't imagine her keeping any personal time for herself, or hobby, or sports. She admitted that she never needed to sleep much (around 4-5 hours would suffice for her), and that she didn't exercise at all during her time at Motorola. As glamorous, successful and powerful as she is, not everyone wants that kind of life. 2) you can juggle family and work, but it's not easy. She had extensive help from her relatives (per Asian culture), a very supporting husband, some colleagues and assistants. She also said that she felt guilty for her absence during her two daughters' childhood and teenage years. It's possible to do both fairly decent, but not easy. 
+
+Lastly, I find her style of writing quite self-congratulatory, sometimes to the point of borederline unbearable. There is also too much unsolicited Pepsi marketing messages.  
