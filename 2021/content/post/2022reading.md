@@ -1,11 +1,11 @@
 ---
-title: "2022 Reading Records "
+title: " 2022 Reading Records "
 date: 2022-05-03T21:18:45+01:00
 categories: ["Babble"]
 draft: true
 ---
 
-How delightful are those fresh, untouched pages with enticing stories hidden in them! 
+How delightful are those fresh, untouched pages! 
 
 The pleasure of reading is multiplied during exam periods. Everything seems fun when compared to reviewing(alas how I started this blog!) So here I am, happy to be back with 2022's reading record. 
 
