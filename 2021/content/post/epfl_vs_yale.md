@@ -4,6 +4,8 @@ date: 2022-06-03T18:31:07+01:00
 categories: ["EPFL"]
 draft: true
 ---
+This is a post in progress...I decided to post it anyways to motivate myself to finish it. 
+
 
 Yesterday was the last day of my first year at EPFL, so I think I've gathered some observations to wrtie this article
 

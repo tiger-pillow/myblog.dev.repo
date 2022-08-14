@@ -2,7 +2,7 @@
 title: "Cycling around Iceland 冰岛骑行记"
 date: 2022-08-11T13:56:00+02:00
 categories: ["Outdoors"]
-draft: true
+draft: false
 ---
 
 This post is still in progress...apologies if the page takes too long to load, I will compress the photos in the future.
