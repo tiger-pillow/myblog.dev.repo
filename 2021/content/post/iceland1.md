@@ -5,6 +5,8 @@ categories: ["Outdoors"]
 draft: true
 ---
 
+This post is still in progress...apologies if the page takes too long to load, I will compress the photos in the future.
+
 ![road](/post/Iceland_Photos/cover2.jpeg)
 
 From July 21st to August 7th, Thi and I bikepacked around Iceland, in total we rode 1553.29 km. 
