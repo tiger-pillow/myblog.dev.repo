@@ -53,7 +53,7 @@ There are a few concepts that I enjoy in particular:
 
 #### 5. Changer l'eau des fleurs par Valérie Perrin 
 
-En train de le finir...
+C'est le première livre que j'ai lu entièrement en français, en plus des romans que j'ai finis pour mon cours français à Yale. Je suis heureuse que j'ai trouvé quelque chose qui est juste un peu plus haute de mon niveau, et qui m'interresse. L'histoire est assez simple, et il n'y a pas beaucoup de charactères, mais les emotions sont fortes, et les personalités de charatères réels. Il y a toujours une épithète avant chaque chapitre, et je les trouve tellement belles. 
 
 
 #### 6. My life in full -- biography by Indra Nooyi (the CEO of Pepsi&Co)
@@ -61,3 +61,6 @@ En train de le finir...
 She speaks extremely sincerely in her book, and her messages strong and useful. Two take-aways: 1) she really worked a lot. I mean, A LOT. People who get really coveted positions have made great sacrifices. Juggling between her enormous business responsibilities, constant travel and a young family of two daughters, I can't imagine her keeping any personal time for herself, or hobby, or sports. She admitted that she never needed to sleep much (around 4-5 hours would suffice for her), and that she didn't exercise at all during her time at Motorola. As glamorous, successful and powerful as she is, not everyone wants that kind of life. 2) you can juggle family and work, but it's not easy. She had extensive help from her relatives (per Asian culture), a very supporting husband, some colleagues and assistants. She also said that she felt guilty for her absence during her two daughters' childhood and teenage years. It's possible to do both fairly decent, but not easy. 
 
 Lastly, I find her style of writing quite self-congratulatory, sometimes to the point of borederline unbearable. There is also too much unsolicited Pepsi marketing messages.  
+
+#### 7. Klara et le Soleil
+J'aime bien Kazuo Ishiguro, et j'ai déjè lu deux autres de ses livres "Never let me go" et "A pale view of hills". C'est incroyable qu'il puisse créer les images, les scénarios, les caractères, avec une langue simple, sans la vocabulaire sophistiqué ou les structures complexes. Je sais que si je le lis en français, je pourrais comprendre presque tous, et c'est le cas. La traduction est précise, et même si c'est dans une autre langue, je peux sentir le style et la mélancolie au travers de la traduction. 
