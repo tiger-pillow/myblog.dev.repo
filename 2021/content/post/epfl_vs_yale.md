@@ -67,10 +67,12 @@ Yale generally starts on Sept 1st and finishes by May 15th. EPFL starts on Sept 
 #### Course Format & Grading
 I think Yale courses are a lot better taught, and slightly more intense than the courses at EPFL. It's partially because professors care more, partially because the peers are more competitive. 
 
-However, grading is harsher at EPFL. A 
+However, grading is harsher at EPFL. With the same amount effort, I usually get A or A- at Yale, but often 5.25 or 5.5 at EPFL (equivalent to a A- or B+). But I am not sure about this point. Maybe my effort has decreased because I am now a jaded student. 
+
+Quite a lot of students fail their exams at EPFL. It's partially because the selection bias of Yale admission, and partially because exams often count for 80% or even 100% of the grade. When I tell EPFL students that I only know one Yalie who had failed an exam, they were always surprised. 
 
 #### Student Organizations 
-seems to me more invovled, has more freedom 
+
 
 #### Work Mindset 
 
