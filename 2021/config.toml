@@ -21,9 +21,19 @@ theme = "yinyang"
 headTitle = "Yiyuan Fang's stuff"
 headSubTitle = "Nothing ever becomes real till it is experienced." 
 mainSections = ["post"]
+disqus = 'yiyuanfang'
 
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
 
 [[params.socials]]
 name = "About Me"
 link = "https://tiger-pillow.github.io/aboutme/about/"
+
+# Comment config
+[params.page.comment]
+enable = true
+# Disqus comment config (https://disqus.com/)
+[params.page.comment.disqus]
+  enable = true
+  # Disqus shortname to use Disqus in posts
+  shortname = "yiyuanfang"
