@@ -1,7 +1,7 @@
 ---
 title: "Climbing the Mont Blanc (with photos)"
 date: 2021-09-17T09:44:41+02:00
-categories: ["Outdoor"]
+categories: ["Outdoors"]
 draft: False
 ---
 ![Mont Blanc](/post/montblanc2/IMG_0864.jpg)The alps from high up

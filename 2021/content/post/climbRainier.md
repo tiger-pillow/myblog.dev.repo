@@ -1,7 +1,7 @@
 ---
 title: "Climb Mt.Rainier vis Ingraham Direct Route"
 date: 2021-05-21T15:08:09-07:00
-categories: ["Outdoor"]
+categories: ["Outdoors"]
 draft: false
 ---
 ![Rainier](/post/climbRainierPhoto/IMG_8750.jpg)
