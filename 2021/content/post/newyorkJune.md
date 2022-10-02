@@ -1,7 +1,7 @@
 ---
 title: "再来东岸 -- NYC和New Haven行记"
 date: 2021-06-06T11:41:37-04:00
-categories: ["Travel"]
+categories: ["Outdoors"]
 draft: true
 ---
 ![42st](/post/NYC202106/IMG_9178.jpg)

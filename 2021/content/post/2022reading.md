@@ -1,7 +1,7 @@
 ---
 title: " 2022 Reading Records "
 date: 2022-05-03T21:18:45+01:00
-categories: ["Babble"]
+categories: ["Readings"]
 draft: true
 ---
 
@@ -64,3 +64,10 @@ Lastly, I find her style of writing quite self-congratulatory, sometimes to the 
 
 #### 7. Klara et le Soleil
 J'aime bien Kazuo Ishiguro, et j'ai déjè lu deux autres de ses livres "Never let me go" et "A pale view of hills". C'est incroyable qu'il puisse créer les images, les scénarios, les caractères, avec une langue simple, sans la vocabulaire sophistiqué ou les structures complexes. Je sais que si je le lis en français, je pourrais comprendre presque tous, et c'est le cas. La traduction est précise, et même si c'est dans une autre langue, je peux sentir le style et la mélancolie au travers de la traduction. 
+
+#### 8. Changer l'eau de fleur
+
+
+#### 9. Simple
+
+

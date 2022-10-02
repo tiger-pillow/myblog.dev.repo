@@ -1,7 +1,7 @@
 ---
 title: "Cycle around lac léman!"
 date: 2022-04-24T09:56:16+02:00
-categories: ["Outdoor"]
+categories: ["Outdoors"]
 draft: true
 ---
 

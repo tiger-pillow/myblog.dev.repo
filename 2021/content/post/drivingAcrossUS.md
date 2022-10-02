@@ -1,7 +1,7 @@
 ---
 title: "边上学，边开车横穿美国"
 date: 2021-05-20T12:31:45-07:00
-categories: ["Travel"]
+categories: ["Outdoors"]
 draft: true
 ---
 本文流水账，长度约等于New Haven到Seattle的距离。
