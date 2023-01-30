@@ -65,9 +65,16 @@ Lastly, I find her style of writing quite self-congratulatory, sometimes to the 
 #### 7. Klara et le Soleil
 J'aime bien Kazuo Ishiguro, et j'ai déjè lu deux autres de ses livres "Never let me go" et "A pale view of hills". C'est incroyable qu'il puisse créer les images, les scénarios, les caractères, avec une langue simple, sans la vocabulaire sophistiqué ou les structures complexes. Je sais que si je le lis en français, je pourrais comprendre presque tous, et c'est le cas. La traduction est précise, et même si c'est dans une autre langue, je peux sentir le style et la mélancolie au travers de la traduction. 
 
-#### 8. Changer l'eau de fleur
-
+#### 8. Trois par Valérie Perrin 
+Second book by Valérie Perrin, another long read in French. The story was beautiful, about childhood, family, loss, grief, friendship, love. Read in French. 
 
 #### 9. Simple
+Recommended by my boyfriend. Funny, light-hearted, young adult book about a boy and his disabled brother. Quick, fun read. I long for a similar co-location. I especially appreciate the boy's perspective of the story. 
 
 
+#### 10. Dans le café de la jeunesse perdue par Patrick Modiano
+Having read Dora Bruder in Enlish while at Yale, I had some faint memories of Patrick Modiano and his distinctive style. This book is about the brief life of a young woman, told from many people's perspectives. I find the perspective refreshing, and the structure innovative. It also touches on a question that always interested me -- how others see us, how we see ourselves, and how are we shaped by our past. 
+
+
+#### 11. The secret life of pronouns 
+Recommended by my Data Science professor. I didn't finish it, but glanced through relatively quickly. It's about natural language processing and how pronouns can reveal the inner psychology, personality, various objective characteristics (gender, age etc.) about a person. I find the writing style a bit trite. 
