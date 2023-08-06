@@ -8,6 +8,7 @@ draft: true
 TL,DR：
 1. make something to be happy
 2. you don't need too much discipline
+3. Two years of blogging! 
 
 最近没什么系统的感想，只是有很多自由时间。我真的每天会从床上跳起来，开始做手头的项目。每天到晚饭时都能有一点点进展，不能自已的感叹创造真的是特别的快乐。So many people have touched on this topic so much more eloquently than I could have, so I just try to share a few with you.
 
