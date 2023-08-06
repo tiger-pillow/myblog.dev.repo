@@ -1,6 +1,6 @@
 ---
 title: "2023 Reading Records "
-date: 2023-08-02T15:18:45+01:00
+date: 2023-07-31T15:18:45+01:00
 categories: ["Readings"]
 draft: true
 ---
