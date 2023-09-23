@@ -6,7 +6,7 @@ draft: true
 ---
 
 ### 1. The world for sale by Jack Farchy and Javier Blas
-Wow I love book like this, introduces me to a whole new field I was unaware of before -- commodity trading. It's not the biggest finance sector, but it plays such a vital role in geopolitics. Surprisingly also, Switzerland is a country with many many powerful commodity trading firms. 
+Wow I love books like this, which introduce me to a whole new field I was completely unaware of before -- commodity trading. It's not the biggest finance sector, but it plays a surprising role in geopolitics. Surprisingly also, Switzerland is a country with many many powerful commodity trading firms. 
 
 ### 2.The Chip War by Chris Miller
 Incredible book about the semiconductor industry -- why it's one of the greatest engineering feat of human beings, and why it's inevitably a global effort. Chris is particularly amazing at explaining the science and technical details in an accessible and enticing way. Loved the book. You can understand so much about the US's invovlement with Taiwan afterwards 
