@@ -21,7 +21,7 @@ Lecture notes of Prof. Chen at Pekin Uni, very well written overview of European
 Read the French translation of it, funny, interesting, wasn't convinced though. 
 
 ### 5. The Timetraveler's Wife by Audrey Niffenegger
-I loved lvoed loved the prose style! so causal, detailed, yet organized, flowy and touching at the same time. Can't wait for the sequel! This books reminds me of why I love reading so much. Also best sex scene I've ever seen written. 
+I loved loved loved the prose style! so causal, detailed, yet organized, flowy and touching at the same time. Can't wait for the sequel! This books reminds me of why I love reading so much. Also best sex scene I've ever seen written. 
 
 ### 6. Divergente by Veronica Roth
 A book series I've read in high school and now revisiting in French. Very well done young adult series (at least the first two books) -- lots of actions! perfect for learning French verbs. Beautiful sentences, conscise and powerful narrative. Fabulous translation! 
