@@ -35,6 +35,15 @@ Enticing story beautifully told, devoured it in three days.
 ### 9. An Immense World by Ed 
 Gave up half way through, gonna retry with a paperback (the pictures of animals mentioned are much needed!)
 
+### 10. Un Jour 
+Romantic classic by David Nicollas, read it in French, loved it.
 
-### next? (oh I've a long list waiting...but hey if you have recommendations lmk!)
+### 11. Le Confident 
+In French, beautifully written, a little scary/disgusting at points (teen girl being forced into pregnancy)
+
+### 12. The Red Roulette 
+Wow the juciest book about the CCP -- a insightful, detailed personal account of doing business in China. 
+
+### 13. The New Merchants of Grains 
+in progress...
 
