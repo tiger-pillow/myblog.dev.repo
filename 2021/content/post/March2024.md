@@ -1,7 +1,7 @@
 ---
 title: "2 months into work "
 date: 2024-03-23T00:47:41+01:00
-categories: [""]
+categories: ["Babble"]
 draft: true
 ---
 
