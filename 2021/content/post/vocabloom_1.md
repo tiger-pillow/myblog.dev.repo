@@ -33,4 +33,4 @@ It has nothing to do with work. It doesn't feel like work. It is way too much fu
 
 ---
 
-Just really happy to be free, to be in new stage of life, to have time for "a project of one's own". 
+Just really happy to be free, to be in a new stage of life, to have time for "a project of one's own". 
