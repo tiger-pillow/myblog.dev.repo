@@ -7,10 +7,8 @@ Hi,
 
 I am Yiyuan. 
 
-I am interested in good writings, good products, and commodity trading. 
+I am interested in good writings, good products, and commodities. 
 
 I graduated from Yale College in 2021 where I majored in Ecology and Evolutionary Biology. I obtained my master's at EPFL in Switzerland, studying computer science(?). Now I work in Geneva. 
 
-An active life outdoors is a life worth living. 
-
-You can contact me at gladysfangcs dot gmail 
+Busy building. But you can contact me at gladysfangcs dot gmail 
